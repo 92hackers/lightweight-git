@@ -13,7 +13,7 @@ git commit -m "add: xxxxx"
 ```
 In general, **git** desinged to be used in a serious way, you make sure what you did
 and then store the updates.
-but in some cases, you just want to modify something, and see what happend, besides,
+but in some cases, you just want to modify something, save and see what happend, besides,
 it's a important file.
 
 That's why **lightweight-git** comes.
