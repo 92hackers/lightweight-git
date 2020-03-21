@@ -7,10 +7,12 @@ to see if everythings works, or debug why it's 500, in old way, you maybe create
 backup current file content, but, with such operations more and morr frequently, everything will be messed.
 it's important to put server config files under a **VCS**.
 but **git** is too complicated to such case, to store a file change, you will have to run below commands:
+
 ```bash
 git add .
 git commit -m "add: xxxxx"
 ```
+
 In general, **git** desinged to be used in a serious way, you make sure what you did
 and then store the updates.
 but in some cases, you just want to modify something, save and see what happend, besides,
